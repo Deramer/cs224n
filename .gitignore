@@ -3,6 +3,9 @@
 *.npy
 datasets/
 results/
+*.bin
+*.optim
+vocab.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
